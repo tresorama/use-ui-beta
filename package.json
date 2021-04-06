@@ -1,0 +1,26 @@
+{
+  "name": "use-ui",
+  "version": "1.0.0",
+  "description": "An example package for a tutorial.",
+  "keywords": [
+    "css-in-js",
+    "react",
+    "design-system"
+  ],
+  "homepage": "https://github.com/tresorama/use-ui",
+  "bugs": {
+    "url": "https://github.com/tresorama/use-ui/issues",
+    "email": "jacopo.marrone27@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tresorama/use-ui.git"
+  },
+  "author": "Jacopo Marrone <jacopo.marrone27@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
